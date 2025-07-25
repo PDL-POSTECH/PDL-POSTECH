@@ -22,7 +22,7 @@ We design protein nanostructures with useful structural, chemical, and biologica
 ---
 
 ### 🛠️ Recent Tools & Personal Repositories
-- ['AlighPDB']([https://github.com/yourusername/align_pdb](https://github.com/ymleegit/AlignPDB.git)) - Align PDB structures into geometric shapes (ymlee)
+- ['AlighPDB'](https://github.com/ymleegit/AlignPDB.git) - Align PDB structures into geometric shapes (ymlee)
 
 ---
 
