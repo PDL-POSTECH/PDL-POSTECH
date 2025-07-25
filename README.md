@@ -15,14 +15,14 @@ We design protein nanostructures with useful structural, chemical, and biologica
 - (Wet-lab) Synthetic biology
 - 🔗 Applications: 
   Our designed protein nanostructures can be used for biomedical applications such as vaccines, gene therapeutics, cell-to-cell communications. 
-- 🧠 AI for protein science
+- 🧠 AI for protein science (hopefully...)
 
 <img width="1280" height="865" alt="image" src="https://github.com/user-attachments/assets/6593c0da-20a3-4859-bc72-5636202d553d" />
 
 ---
 
 ### 🛠️ Recent Tools & Personal Repositories
-- [`align_pdb`](https://github.com/yourusername/align_pdb) - Align PDB structures into geometric shapes (ymlee)
+- ['AlighPDB']([https://github.com/yourusername/align_pdb](https://github.com/ymleegit/AlignPDB.git)) - Align PDB structures into geometric shapes (ymlee)
 
 ---
 
